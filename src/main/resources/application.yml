@@ -1,0 +1,23 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key:AKIA6PS436XZ44SAXRFQ
+      secret-key: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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/995553441267/chana-queue
+
+
+#cloud:
+#  aws:
+#    region:
+#      static: ap-northeast-1
+#      auto: false
+#    credentials:
+#      access-key: AKIA6PS436XZ44SAXRFQ
+#      secret-key: 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
+#    end-point:
+#      uri: https://sqs.ap-northeast-1.amazonaws.com/995553441267/matan-searchengine
+
